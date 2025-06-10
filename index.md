@@ -1,5 +1,3 @@
-## Nico FS
-
 #### Experience  
 **Sr. Product Manager** – [Palo Alto Networks](https://www.paloaltonetworks.com)  
 - Driving product strategy to improve the monitoring of our SASE infrastructure
@@ -23,7 +21,7 @@
 
 #### Outside of Work  
 **Runner**  
-- Recent race - [Danville Road Mile](https://results.raceroster.com/v2/en-US/results/235pd66vwrt45f2a/detail/zdf4qh63jtd7x3ts)
+- Recent race results - [Danville Road Mile](https://results.raceroster.com/v2/en-US/results/235pd66vwrt45f2a/detail/zdf4qh63jtd7x3ts)
 
 #### Connect  
 - [Email](mailto:nico.filipsan@gmail.com)  
