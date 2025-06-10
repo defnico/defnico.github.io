@@ -1,6 +1,7 @@
 #### Experience  
 **Sr. Product Manager** – [Palo Alto Networks](https://www.paloaltonetworks.com)  
 - Driving product strategy to improve the monitoring of our SASE infrastructure
+- Former rotational PM in charge of defining and launching the [SSPM solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
 
 #### Education  
 **USC, 2021** – [M.S. in Applied Data Science](https://datascience.usc.edu/academics/master-of-science-in-applied-data-science)  
