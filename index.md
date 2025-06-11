@@ -30,3 +30,4 @@
 #### Connect  
 - [Email](mailto:nico.filipsan@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/nicofilipsanchez/)
+- [GitHub](https://github.com/defnico)
