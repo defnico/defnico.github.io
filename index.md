@@ -1,9 +1,9 @@
 #### Experience  
-**Sr. Product Manager** – [Palo Alto Networks](https://www.paloaltonetworks.com)  
+**Sr. Product Manager (2021-Present)** – [Palo Alto Networks](https://www.paloaltonetworks.com)
 - Driving product strategy to improve the monitoring of our SASE infrastructure
 - Former rotational PM in charge of defining and launching the [SSPM solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
 
-**SWE Intern** - [Northrop Grumman](https://www.northropgrumman.com/) (2018), [EY](https://www.ey.com/en_us) (2019), [Samsara](https://www.samsara.com) (2020)
+**Previous Software Internships** - [Northrop Grumman](https://www.northropgrumman.com/) (2018), [EY](https://www.ey.com/en_us) (2019), [Samsara](https://www.samsara.com) (2020)
 
 #### Education  
 **USC, 2021** – [M.S. in Applied Data Science](https://datascience.usc.edu/academics/master-of-science-in-applied-data-science)  
@@ -17,7 +17,7 @@
 
 #### Other Projects  
 **Creator and first TA of ITP 483 (2020)** – [Communication for Software Engineers](https://web-app.usc.edu/soc/syllabus/20233/32088.pdf)  
-- Designed the first elective helping CS students improve their technical communication and interview skills
+- Created the first elective to help CS students improve their technical communication and interview skills
 
 **Co-founder & Head of Product/Design (2020-2022)** – [Inked Sports](https://www.kingtide.com/case-studies/inkedsports)  
 - Built a SaaS platform connecting college athletes with brands in the NIL era
