@@ -10,19 +10,20 @@
 **USC, 2019** – [B.S. in Computer Science & Business Administration](https://www.cs.usc.edu/academic-programs/undergrad/computer-science-business-administration)  
 - Joint degree from the Viterbi School of Engineering & Marshall School of Business
 
-**BCP, 2015** – [Bellarmine College Prep](https://www.bcp.org)  
+**BCP, 2015** – [Bellarmine College Preparatory](https://www.bcp.org)  
 - Competitive all-boys high school in San Jose, CA
 
 #### Other Projects  
 **Creator and first TA of ITP 483** – [Communication for Software Engineers](https://web-app.usc.edu/soc/syllabus/20233/32088.pdf)  
 - Designed the first elective helping CS students improve their technical communication and interview skills
 
-**Former Co-founder & Head of Product/Design** – [Inked Sports](https://www.kingtide.com/case-studies/inkedsports)  
+**Co-founder & Head of Product/Design** – [Inked Sports](https://www.kingtide.com/case-studies/inkedsports)  
 - Built a SaaS platform connecting college athletes with brands in the NIL era
 
 #### Outside of Work  
-**Runner**  
+**Runner & Adventurer**  
 - Recent race results - [Danville Road Mile](https://results.raceroster.com/v2/en-US/results/235pd66vwrt45f2a/detail/zdf4qh63jtd7x3ts)
+- Successfully summited Mt. Kilimanjaro
 
 #### Connect  
 - [Email](mailto:nico.filipsan@gmail.com)  
