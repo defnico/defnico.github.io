@@ -3,7 +3,10 @@
 - Driving product strategy to improve the monitoring of our SASE infrastructure
 - Former rotational PM in charge of defining and launching the [SSPM solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
 
-**Previous Software Internships** - [Northrop Grumman](https://www.northropgrumman.com/) (2018), [EY](https://www.ey.com/en_us) (2019), [Samsara](https://www.samsara.com) (2020)
+**Previous Software Internships**
+- [Samsara](https://www.samsara.com) (2020)
+- [EY](https://www.ey.com/en_us) (2019)
+- [Northrop Grumman](https://www.northropgrumman.com/) (2018)
 
 #### Education  
 **USC, 2019-2021** – [M.S. in Applied Data Science](https://datascience.usc.edu/academics/master-of-science-in-applied-data-science)  
