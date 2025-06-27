@@ -6,13 +6,13 @@
 **Previous Software Internships** - [Northrop Grumman](https://www.northropgrumman.com/) (2018), [EY](https://www.ey.com/en_us) (2019), [Samsara](https://www.samsara.com) (2020)
 
 #### Education  
-**USC, 2021** – [M.S. in Applied Data Science](https://datascience.usc.edu/academics/master-of-science-in-applied-data-science)  
+**USC, 2019-2021** – [M.S. in Applied Data Science](https://datascience.usc.edu/academics/master-of-science-in-applied-data-science)  
 - Admitted early into the graduate program
 
-**USC, 2019** – [B.S. in Computer Science & Business Administration](https://www.cs.usc.edu/academic-programs/undergrad/computer-science-business-administration)  
+**USC, 2015-2019** – [B.S. in Computer Science & Business Administration](https://www.cs.usc.edu/academic-programs/undergrad/computer-science-business-administration)  
 - Joint degree from the Viterbi School of Engineering & Marshall School of Business
 
-**BCP, 2015** – [Bellarmine College Preparatory](https://www.bcp.org)  
+**BCP, 2011-2015** – [Bellarmine College Preparatory](https://www.bcp.org)  
 - Competitive all-boys high school in San Jose, CA
 
 #### Other Projects  
