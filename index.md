@@ -5,7 +5,7 @@
 - Product Manager, PMA (2021-2023)
   - Rotational PM in charge of defining and launching the [SSPM solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
 
-**Previous Software Internships**
+**Software Internships**
 - [Samsara](https://www.samsara.com) (2020)
 - [EY](https://www.ey.com/en_us) (2019)
 - [Northrop Grumman](https://www.northropgrumman.com/) (2018)
