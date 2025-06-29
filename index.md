@@ -1,7 +1,7 @@
 #### Experience  
-**Sr. Product Manager (2021-Present)** – [Palo Alto Networks](https://www.paloaltonetworks.com)
-- Driving product strategy to improve the monitoring of our SASE infrastructure
-- Former rotational PM in charge of defining and launching the [SSPM solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
+**Product Management (2021-Present)** – [Palo Alto Networks](https://www.paloaltonetworks.com)
+- Sr. Product Manager (2023-Present): Driving product strategy to improve the monitoring of PANW's SASE infrastructure
+- Product Manager, PMA (2021-2023): Rotational PM in charge of defining and launching the [SSPM solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
 
 **Previous Software Internships**
 - [Samsara](https://www.samsara.com) (2020)
