@@ -30,7 +30,7 @@
 #### Outside of Work  
 **Runner & Adventurer**  
 - Recent race results - [Danville Road Mile 2025](https://results.raceroster.com/v2/en-US/results/235pd66vwrt45f2a/detail/zdf4qh63jtd7x3ts), [Indianapolis Road Mile 2025](https://www.athlinks.com/event/111595/results/Event/1114573/Course/2610249/Bib/277)
-- Successfully summited Mt. Kilimanjaro (2021)
+- Successfully summited Mt. Kilimanjaro in Tanzania, the tallest mountain in Africa (2021)
 
 #### Connect  
 - [Email](mailto:nico.filipsan@gmail.com)  
