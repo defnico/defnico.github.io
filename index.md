@@ -20,6 +20,9 @@
 **BCP, 2011-2015** – [Bellarmine College Preparatory](https://www.bcp.org)  
 - Competitive all-boys high school in San Jose, CA
 
+**Kantonsschule Rämibühl, 2010** - [School overview](https://en.wikipedia.org/wiki/Kantonsschule_R%C3%A4mib%C3%BChl)
+- Gymnasium in Zurich, Switzerland
+
 #### Other Projects  
 **Creator and first TA of ITP 483 (2020)** – [Communication for Software Engineers](https://web-app.usc.edu/soc/syllabus/20233/32088.pdf)  
 - Created the first elective to help CS students improve their technical communication and interview skills
