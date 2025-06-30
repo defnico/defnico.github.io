@@ -25,10 +25,10 @@
 
 #### Other Projects  
 **Co-founder & Head of Product/Design (2020-2022)** – [Inked Sports](https://www.kingtide.com/case-studies/inkedsports)  
-- Built a SaaS platform connecting college athletes with brands in the NIL era
+- Built a SaaS platform connecting college athletes with brands in the new era of Name, Image, and Likeness (NIL)
 
 **Creator and first TA of ITP 483 (2020)** – [Communication for Software Engineers](https://web-app.usc.edu/soc/syllabus/20233/32088.pdf)  
-- Created the first elective to help CS students improve their technical communication and interview skills
+- Created the first Viterbi elective that helps CS students improve their technical communication and interview skills
 
 #### Outside of Work  
 **Runner & Adventurer**  
