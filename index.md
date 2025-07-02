@@ -20,7 +20,7 @@
 **BCP, 2011-2015** – [Bellarmine College Preparatory](https://www.bcp.org)  
 - Competitive all-boys high school in San Jose, CA
 
-**Kantonsschule Rämibühl, 2010** - [School overview](https://en.wikipedia.org/wiki/Kantonsschule_R%C3%A4mib%C3%BChl)
+**Kantonsschule Rämibühl, 2010** - [School Overview](https://en.wikipedia.org/wiki/Kantonsschule_R%C3%A4mib%C3%BChl)
 - Gymnasium in Zurich, Switzerland
 
 #### Other Projects  
