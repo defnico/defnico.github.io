@@ -36,7 +36,7 @@
 - Middle distance running - 4:34 mile (2025 season best)
   - Recent race results: [Danville Road Mile](https://results.raceroster.com/v2/en-US/results/235pd66vwrt45f2a/detail/zdf4qh63jtd7x3ts), [Indianapolis Road Mile](https://www.athlinks.com/event/111595/results/Event/1114573/Course/2610249/Bib/277), USATF Masters Championships [800m](https://finishtiming.trackscoreboard.com/meets/656104/events/248/Final), [1500m](https://finishtiming.trackscoreboard.com/meets/656104/events/264/Final)
 - Summited Mt. Kilimanjaro in Tanzania, Africa's tallest peak (19.3k ft.) in 2021
-- Bought and sold 9000+ sports cards, generating over $31k in online revenue
+- Bought and sold 9000+ sports cards from 2023-2025, generating over $31k in online revenue and used data analytics to determine market trends and card prices
 
 #### Connect  
 - [Email](mailto:nico.filipsan@gmail.com)  
