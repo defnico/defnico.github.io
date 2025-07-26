@@ -1,12 +1,12 @@
 #### Experience  
-**Palo Alto Networks** ([PANW](https://www.paloaltonetworks.com))
+**Palo Alto Networks** - [PANW](https://www.paloaltonetworks.com)
 - Sr. Product Manager (2023–Present)
   - Driving product strategy to improve the monitoring of PANW's SASE infrastructure
 - Product Manager, PMA (2021–2023)
-  - Rotational PM responsible for defining and launching the [SSPM solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
+  - Rotational PM responsible for defining and launching the SaaS Security Posture Management (SSPM) [solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
 
 **Software Internships**
-- [Samsara](https://www.samsara.com) (2020)
+- [Samsara](https://www.samsara.com) (2020, pre-IPO)
 - [EY](https://www.ey.com/en_us) (2019)
 - [Northrop Grumman](https://www.northropgrumman.com/) (2018)
 
@@ -26,10 +26,10 @@
 #### Selected Projects  
 **Co-founder & Head of Product/Design (2020–2022)** – [Inked Sports](https://www.kingtide.com/case-studies/inkedsports)  
 - Built a SaaS platform connecting college athletes with brands in the new era of Name, Image, and Likeness (NIL)
-- Mentioned in _Sports Illustrated_ ahead of the product's launch ([article link](https://www.si.com/college/2021/04/22/ncaa-athletes-profit-nil-marketplace-july-1))
+- See Inked Sports get mentioned in _Sports Illustrated_ ahead of the product's launch ([article](https://www.si.com/college/2021/04/22/ncaa-athletes-profit-nil-marketplace-july-1))
 
 **Creator and first TA of ITP 483 (2020)** – [Communication for Software Engineers](https://web-app.usc.edu/soc/syllabus/20233/32088.pdf)  
-- Created the first Viterbi elective that helps CS students improve their technical communication and interview skills
+- Created the first engineering elective that helps CS students improve their technical communication and interview skills
 
 #### Outside of Work
 - Middle distance running - 4:34 mile (2025 season best)
