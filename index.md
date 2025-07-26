@@ -5,10 +5,10 @@
 - Product Manager, PMA (2021–2023)
   - Rotational PM responsible for defining and launching the SaaS Security Posture Management (SSPM) [solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
 
-**Software Internships**
-- [Samsara](https://www.samsara.com) (2020, pre-IPO)
-- [EY](https://www.ey.com/en_us) (2019)
-- [Northrop Grumman](https://www.northropgrumman.com/) (2018)
+**Internships**
+- Software Intern - [Samsara](https://www.samsara.com) (2020, pre-IPO)
+- Software Intern - [EY](https://www.ey.com/en_us) (2019)
+- Software Intern - [Northrop Grumman](https://www.northropgrumman.com/) (2018)
 
 #### Education  
 **USC, 2019–2021** – [M.S. in Applied Data Science](https://datascience.usc.edu/academics/master-of-science-in-applied-data-science)  
