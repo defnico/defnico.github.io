@@ -36,7 +36,7 @@
 
 #### Outside of Work
 - Middle distance running
-  - 2025 bests: 4:29 mile, 15:42 5k
+  - 2025 season bests: 4:29 mile, 15:42 5k
   - Recent race results: [LA Distance Night Mile](https://finishedresults.trackscoreboard.com/meets/13909/events/2/Final), [NYC 5th Avenue Mile](https://results.nyrr.org/event/25FAM/result/2570), [Silicon Valley Turkey Trot](https://results.svetiming.com/silicon-valley-leadership-group/events/2025/applied-materials-silicon-valley-turkey-trot/5057/entrant?share=1), [Danville Road Mile](https://results.raceroster.com/v2/en-US/results/235pd66vwrt45f2a/detail/zdf4qh63jtd7x3ts), [Indianapolis Road Mile](https://www.athlinks.com/event/111595/results/Event/1114573/Course/2610249/Bib/277), USATF Masters Championships (Huntsville) [800m](https://finishtiming.trackscoreboard.com/meets/656104/events/248/Final), [1500m](https://finishtiming.trackscoreboard.com/meets/656104/events/264/Final)
 - Summited Mt. Kilimanjaro in Tanzania, Africa's tallest peak (19.3k ft.) in 2021
 - Attempted Mt. Aconcagua in Argentina, the Americas’ tallest peak (22.8k ft.) in 2026; halted expedition at ~20k ft. due to severe weather
