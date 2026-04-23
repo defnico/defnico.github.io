@@ -1,7 +1,9 @@
 #### Experience  
 **Palo Alto Networks** ([PANW](https://www.paloaltonetworks.com))
-- Sr. Product Manager (2023–Present)
+- Principal Product Manager (2026–Present)
   - Driving product strategy to improve the monitoring of the global cloud infrastructure for our SASE service
+- Sr. Product Manager (2023–2026)
+  - Prisma SASE infrastructure monitoring & autonomous operations
 - Product Manager, PMA (2021–2023)
   - Rotational PM responsible for defining and launching the SaaS Security Posture Management (SSPM) [solution](https://www.youtube.com/watch?v=gvyC1DYPmkY)
 
